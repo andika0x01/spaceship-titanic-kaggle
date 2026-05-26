@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 submission.csv
+catboost_info/
+submission_best.csv
